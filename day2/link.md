@@ -1,0 +1,1 @@
+https://dev.to/arthurmaverick/what-you-still-dont-know-about-cronjob-k8s-1ehn
